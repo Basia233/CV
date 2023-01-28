@@ -1,0 +1,171 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main-container {
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h3 {
+    color: #645CBB;
+}
+
+#profession {
+    font-size: 20px;
+}
+
+.top-container {
+    background-color: #645CBB;
+    color: #fff;
+}
+
+.my-photo {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 220px;
+}
+
+.about-me {
+    display: inline-block;
+    margin: 0;
+    width: 685px;
+    vertical-align: top;
+    padding-top: 30px;
+}
+
+.left-container {
+    display: inline-block;
+    width: 285px;
+    text-align: center;
+
+
+}
+
+.right-container {
+    display: inline-block;
+    width: 709px;
+    vertical-align: top;
+    text-align: center;
+    border-left: 1px dashed #645CBB;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    padding: 8px;
+
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: #645CBB;
+    text-decoration: underline;
+}
+
+.contact-me {
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+.education {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.work-experience {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.languages {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.skills {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.soft-skills {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    padding-right: 20px;
+}
+
+.contact {
+    color: #645CBB;
+    padding-bottom: 20px;
+}
+
+.contact-details {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+input[type=email],
+input[type=text],
+input[type=submit],
+textarea {
+    width: 300px;
+    background-color: #efefef;
+    color: #645CBB;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 7px;
+    box-sizing: border-box;
+    outline: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    resize: none;
+}
+
+input[type=email]:hover,
+input[type=text]:hover,
+textarea:hover {
+    background-color: #fff;
+}
+
+input[type=submit] {
+    background-color: #645CBB;
+    color: #fff;
+}
+
+input[type=submit]:hover{
+    background-color: #5D3891;
+}
+
+.container {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
